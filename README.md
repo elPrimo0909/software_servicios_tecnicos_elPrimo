@@ -5,6 +5,23 @@
 
 
 <p align="center">
+## 🚀 Tecnologías
+JS, PHP, CSS, Node, etc.
+
+
+## 📜 Licencia / Contacto
+elPrimo - Uso Gratuito
+
+## 🧠 Descripción
+
+Este software POS permite:
+- Ordenes de servicio dispositvos electronicos
+- Registrar nuevas  y administrar productos
+- Registrar ventas
+- Gestionar clientes
+- Ver reportes simples de ventas
+
+👉 Ideal para pequeños negocios o restaurantes que necesitan un sistema fácil y ligero.
 
 
 ## Funcionalidades
