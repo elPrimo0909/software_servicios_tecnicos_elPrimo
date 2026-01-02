@@ -21,7 +21,7 @@ Este software POS permite:
 - Gestionar clientes
 - Ver reportes simples de ventas
 
-👉 Ideal para pequeños negocios o restaurantes que necesitan un sistema fácil y ligero.
+👉 Ideal para pequeños negocios que necesitan un sistema fácil y ligero.
 
 
 ## Funcionalidades
